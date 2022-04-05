@@ -1,0 +1,29 @@
+[
+    {
+        "_ConcertHall__id": 1,
+        "_ConcertHall__name": "Arena Armeec",
+        "_ConcertHall__address": "Alabala Street 1200",
+        "_ConcertHall__capacity": 800,
+        "reserved_dates": [],
+        "_module": "entity.concert_hall",
+        "_class": "ConcertHall"
+    },
+    {
+        "_ConcertHall__id": 2,
+        "_ConcertHall__name": "Zala 1",
+        "_ConcertHall__address": "NDK Street 1200",
+        "_ConcertHall__capacity": 500,
+        "reserved_dates": [],
+        "_module": "entity.concert_hall",
+        "_class": "ConcertHall"
+    },
+    {
+        "_ConcertHall__id": 3,
+        "_ConcertHall__name": "Mladejki dom",
+        "_ConcertHall__address": "Brumbrum Street 158",
+        "_ConcertHall__capacity": 200,
+        "reserved_dates": [],
+        "_module": "entity.concert_hall",
+        "_class": "ConcertHall"
+    }
+]

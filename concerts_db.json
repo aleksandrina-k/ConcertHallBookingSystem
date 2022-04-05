@@ -1,0 +1,50 @@
+[
+    {
+        "_Concert__id": 1,
+        "_Concert__singer": "Grafa",
+        "_Concert__date": {
+            "day": 30,
+            "month": 3,
+            "year": 2022,
+            "_module": "entity.date",
+            "_class": "Date"
+        },
+        "_Concert__ticket_number": 100,
+        "_Concert__place": {
+            "_ConcertHall__id": 1,
+            "_ConcertHall__name": "Arena Armeec",
+            "_ConcertHall__address": "Alabala Street 1200",
+            "_ConcertHall__capacity": 800,
+            "reserved_dates": [],
+            "_module": "entity.concert_hall",
+            "_class": "ConcertHall"
+        },
+        "_Concert__tickets": [],
+        "_module": "entity.concert",
+        "_class": "Concert"
+    },
+    {
+        "_Concert__id": 2,
+        "_Concert__singer": "Mihaela Fileva",
+        "_Concert__date": {
+            "day": 25,
+            "month": 4,
+            "year": 2022,
+            "_module": "entity.date",
+            "_class": "Date"
+        },
+        "_Concert__ticket_number": 200,
+        "_Concert__place": {
+            "_ConcertHall__id": 1,
+            "_ConcertHall__name": "Arena Armeec",
+            "_ConcertHall__address": "Alabala Street 1200",
+            "_ConcertHall__capacity": 800,
+            "reserved_dates": [],
+            "_module": "entity.concert_hall",
+            "_class": "ConcertHall"
+        },
+        "_Concert__tickets": [],
+        "_module": "entity.concert",
+        "_class": "Concert"
+    }
+]

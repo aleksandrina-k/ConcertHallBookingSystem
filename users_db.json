@@ -1,0 +1,50 @@
+[
+    {
+        "_Person__id": "18f8de14-b468-11ec-baa2-e8d0fcdaea0e",
+        "_Person__name": "Aleksandrina",
+        "_Person__age": 21,
+        "_module": "entity.user",
+        "_class": "User",
+        "_User__username": "sasha",
+        "_User__password": "123456",
+        "_User__email": "sashii00@abv.bg",
+        "_User__role": {
+            "name": "USER",
+            "_module": "entity.role",
+            "_class": "Role"
+        },
+        "bought_tickets": []
+    },
+    {
+        "_Person__id": "18f92cfd-b468-11ec-bc97-e8d0fcdaea0e",
+        "_Person__name": "Peter",
+        "_Person__age": 25,
+        "_module": "entity.user",
+        "_class": "User",
+        "_User__username": "peter",
+        "_User__password": "123456",
+        "_User__email": "petur11@abv.bg",
+        "_User__role": {
+            "name": "USER",
+            "_module": "entity.role",
+            "_class": "Role"
+        },
+        "bought_tickets": []
+    },
+    {
+        "_Person__id": "18f92cfe-b468-11ec-be5c-e8d0fcdaea0e",
+        "_Person__name": "Georgi",
+        "_Person__age": 18,
+        "_module": "entity.user",
+        "_class": "User",
+        "_User__username": "georgi",
+        "_User__password": "123456",
+        "_User__email": "georgi22@abv.bg",
+        "_User__role": {
+            "name": "USER",
+            "_module": "entity.role",
+            "_class": "Role"
+        },
+        "bought_tickets": []
+    }
+]
